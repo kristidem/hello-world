@@ -1,2 +1,6 @@
 # hello-world
-Krist's playground for GitHub
+Kristi's playground for GitHub
+
+I am trying to figure this all out.
+
+:)
